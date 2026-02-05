@@ -1,0 +1,2 @@
+# Project-Work-for-Business-Application-in-Maching-Learning-MIS587
+This project uses machine learning to analyze airline customer satisfaction using passenger, service, and operational data. It applies feature engineering and AutoML to select a high-performing LightGBM model, delivering reliable predictions that support data-driven decisions for service improvement, revenue protection, and customer retention
